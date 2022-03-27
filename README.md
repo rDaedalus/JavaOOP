@@ -1,5 +1,5 @@
 ## Getting Started
-Hello, Im am Daedalus a 1st year Information Technology Student This is my Java Playground, You can post some issue of my work to help learn.
+Hello, Im am Daedalus a 1st year Information Technology Student This is my Java Playground, You can post some issue of my work to help me learn more.
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
